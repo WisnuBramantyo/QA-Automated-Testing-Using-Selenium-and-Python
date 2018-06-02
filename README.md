@@ -1,4 +1,5 @@
 [Tutorial for installing and testing python and selenium library on Linux] 
+
 This tutorial is one of many ways to create an automated testing using Python + Selenium Library + Mozilla Firefox
 
 #INSTALLING SYSTEM
@@ -31,7 +32,7 @@ Steps :
 You can use, change or improve my test.py file attached here
 3. Create or copy my test.py file into web_test_python folder 
 4. Execute  test.python file using this command : python test.py
-5. Wait. You can check the automation is running. On this testing, you will not get a report of your testing like robot framework does. 
+5. Wait. You can check the automation is running. On this testing, you will not get a report of your testing like robot framework does(check my other repo about automated testing using robot framework). 
 But I think python is really powerfull if it is used on automated testing. 
 
 Your automated testing is successfully done.
