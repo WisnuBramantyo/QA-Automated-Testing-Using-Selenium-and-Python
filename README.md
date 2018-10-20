@@ -6,9 +6,6 @@ This tutorial is one of many ways to create an automated testing using Python + 
 => Install Pip
 sudo apt-install pip
 
-=> Install Robot Framework
-pip install robotframework
-
 => Install Selenium2Library
 pip install robotframework-selenium2library
 
